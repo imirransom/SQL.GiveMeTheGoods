@@ -1,1 +1,2 @@
-SELECT students AS learners;
+SELECT * FROM
+students AS learners;
